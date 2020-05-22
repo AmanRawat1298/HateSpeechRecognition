@@ -8,7 +8,7 @@
 Clone the Project
 
 ```
-git clone https://github.com/vishnu0179/HateSpeechRecognition.git
+git clone https://github.com/AmanRawat1298/HateSpeechRecognition.git
 ```
 
 
